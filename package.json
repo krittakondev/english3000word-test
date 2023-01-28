@@ -1,0 +1,23 @@
+{
+  "name": "english3000word-test",
+  "version": "1.0.0",
+  "description": "แปลภาษา",
+  "main": "index.js",
+  "scripts": {
+    "start": "node translate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostBunny13/english3000word-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhostBunny13/english3000word-test/issues"
+  },
+  "homepage": "https://github.com/GhostBunny13/english3000word-test#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.1.0"
+  }
+}
