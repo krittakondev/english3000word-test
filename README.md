@@ -22,4 +22,8 @@ python main.py
 ```bash
 python3 main.py
 ```
-    
+##### options
+ใส่จำนวนข้อหลัง `main.py` ได้เช่น `python main.py 3`
+
+## screenshot 
+![screenshot](1.png)
