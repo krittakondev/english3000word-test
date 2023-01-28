@@ -15,7 +15,7 @@ with open("./3000word-th.txt", "r") as r:
     wordlist_th = r.read().split("\n")
 
 
-# wordlist = wordlist[:700]
+wordlist = wordlist[:len(wordlist_th)]
 # print(wordlist)
 
 if(len(sys.argv)>1):
